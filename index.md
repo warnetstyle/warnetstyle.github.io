@@ -1,8 +1,6 @@
 ---
-title: Situs Resmi Warnet Style - Rumah
+title: Situs Resmi Warnet Style
 ---
-
-# Rumah
 
 ## Selamat datang!
 
