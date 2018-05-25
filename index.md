@@ -2,6 +2,8 @@
 title: Situs Resmi Warnet Style - Rumah
 ---
 
-## Hello
+## Selamat datang!
 
-Yes
+Selamat datang di situs jejaring komunitas Warnet Style!
+
+Kami berharap kunjungan kamu menyenangkan!
