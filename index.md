@@ -2,10 +2,9 @@
 title: Halaman Utama
 ---
 
-Navigasi:
-| [Halaman Utama](https://warnetstyle.github.io/)
-| [Berita](https://warnetstyle.github.io/berita.html) 
-| [Tentang Kami](https://warnetstyle.github.io/tentang_kami.html) |
+[Halaman Utama](https://warnetstyle.github.io/)
+| [Berita](https://warnetstyle.github.io/berita.html)
+| [Anggota](https://warnetstyle.github.io/anggota.html)
 
 ## Selamat datang!
 
