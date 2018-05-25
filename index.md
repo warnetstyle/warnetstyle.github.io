@@ -2,7 +2,7 @@
 title: Halaman Utama
 ---
 
-| __Halaman Utama__ | __Berita__ | __Tentang Kami__ |
+| Halaman Utama | Berita | Tentang Kami |
 
 ## Selamat datang!
 
