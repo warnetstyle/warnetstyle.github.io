@@ -2,4 +2,6 @@
 title: Selamat Datang di Situs Resmi Warnet Style
 ---
 
-Sedang dalam pengerjaan.
+## Situs Apa Ini?
+
+Ini adalah situs jejaring dari sebuah komunitas bernama Warnet Style.
