@@ -4,7 +4,7 @@ title: Halaman Utama
 
 [Halaman Utama](https://warnetstyle.github.io/)
 | [Berita](https://warnetstyle.github.io/berita.html)
-| [Anggota](https://warnetstyle.github.io/anggota.html)
+| [Anggota-Anggota](https://warnetstyle.github.io/anggota-anggota.html)
 
 ## Selamat datang!
 
